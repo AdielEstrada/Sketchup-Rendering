@@ -11,3 +11,12 @@ The following images show the Recreational Center in it's different views. For t
 ## Front View
 <img src="https://i.ibb.co/2SZS9rt/Recreation-Center.png" alt="Sketchup Front View">
 <img src="https://i.ibb.co/9sSwSC5/Render-1.jpg" alt="Ai Front View">
+
+## Side View
+<img src="https://i.ibb.co/hfZXNRG/Recreation-Center-1.png" alt="Sketchup Side View">
+<img src="https://i.ibb.co/vzz5mkT/Render-4.jpg" alt="Ai Side View">
+
+## Playground View
+<img src="https://i.ibb.co/tb7ZbWC/Recreation-Center-3.png" alt="Sketchup Playground View">
+<img src="https://i.ibb.co/zhZZhft/Render-2.jpg" alt="Ai Playground View">
+
